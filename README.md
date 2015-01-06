@@ -7,7 +7,7 @@ Installing
 ==========
 
 ```
-npm install hooq-reporting --save
+npm install shnappy-email-templater --save
 ```
 
 Setup
