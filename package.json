@@ -1,6 +1,6 @@
 {
   "name": "shnappy-email-templater",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Merges JS objects into HTML templates using handlebars",
   "main": "lib/index.js",
   "scripts": {
